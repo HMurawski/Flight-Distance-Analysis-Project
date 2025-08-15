@@ -46,5 +46,12 @@ Due to the sensitive nature of the data, the original CSV files (`FlightDistance
 
 ---
 
+## 🗺️ Interactive Map
+
+[![Open interactive map](https://img.shields.io/badge/Open%20map-GitHub%20Pages-blue?logo=github)](https://hmurawski.github.io/Flight-Distance-Analysis-Project/EnhancedFlightRoutesMap.html)
+
+[![Map preview](assets/flight_map_preview.png)](https://hmurawski.github.io/Flight-Distance-Analysis-Project/EnhancedFlightRoutesMap.html)
+
+
 
 
